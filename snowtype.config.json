@@ -1,0 +1,12 @@
+{
+  "igluCentralSchemas": [],
+  "dataStructures": [],
+  "eventSpecificationIds": [],
+  "dataProductIds": [
+    "04080f2e-24c3-46dd-9e0f-a9631968b872"
+  ],
+  "organizationId": "b12539df-a711-42bd-bdfa-175308c55fd5",
+  "tracker": "@snowplow/browser-tracker",
+  "language": "typescript",
+  "outpath": "./app/snowtype"
+}
